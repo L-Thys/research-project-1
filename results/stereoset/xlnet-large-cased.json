@@ -1,0 +1,12 @@
+{
+  "xlnet-large-cased.json": {
+    "intrasentence": {
+      "gender": {
+        "Count": 765.0,
+        "LM Score": 74.15920794181665,
+        "SS Score": 53.994467529250144,
+        "ICAT Score": 68.23467697944672
+      }
+    }
+  }
+}

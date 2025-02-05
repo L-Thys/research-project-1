@@ -1,0 +1,7 @@
+model	test	p_value	effect_size	num_targ1	num_targ2	num_attr1	num_attr2
+bert-large	seat_data/sent-weat6.jsonl	0.79151	-0.1455887365028488	64	64	101	112
+bert-large	seat_data/sent-weat6b.jsonl	0.56867	-0.028468893845594385	80	80	101	112
+bert-large	seat_data/sent-weat7.jsonl	0.13776	0.1818253215659111	72	72	80	80
+bert-large	seat_data/sent-weat7b.jsonl	0.00025	0.5799040908547733	72	72	64	64
+bert-large	seat_data/sent-weat8.jsonl	0.21239	0.1538976503050988	56	56	80	80
+bert-large	seat_data/sent-weat8b.jsonl	0.32144	0.08720574421879743	56	56	64	64

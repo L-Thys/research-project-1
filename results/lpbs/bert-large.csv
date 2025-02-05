@@ -1,0 +1,4 @@
+model	test	p_value	effect_size
+bert-large	weat 6	0.01836	0.6679699868571644
+bert-large	weat 7	0.00541	0.7694334955756673
+bert-large	weat 8	0.03746	0.5818577351307836

@@ -1,0 +1,7 @@
+model	test	p_value	effect_size	num_targ1	num_targ2	num_attr1	num_attr2
+roberta-large	seat_data/sent-weat6.jsonl	0.00694	0.42793762708786237	64	64	101	112
+roberta-large	seat_data/sent-weat6b.jsonl	0.01644	0.33559941695842893	80	80	101	112
+roberta-large	seat_data/sent-weat7.jsonl	0.00229	0.4678126810159481	72	72	80	80
+roberta-large	seat_data/sent-weat7b.jsonl	0.00074	0.5219823183751705	72	72	64	64
+roberta-large	seat_data/sent-weat8.jsonl	4e-05	0.7305620108310443	56	56	80	80
+roberta-large	seat_data/sent-weat8b.jsonl	0.13846	0.20733275685779262	56	56	64	64

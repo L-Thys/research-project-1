@@ -1,0 +1,12 @@
+{
+  "roberta-large.json": {
+    "intrasentence": {
+      "gender": {
+        "Count": 765.0,
+        "LM Score": 75.81619483576004,
+        "SS Score": 56.87202700680962,
+        "ICAT Score": 65.39597606646238
+      }
+    }
+  }
+}

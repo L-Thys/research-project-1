@@ -1,0 +1,7 @@
+model	test	p_value	effect_size	num_targ1	num_targ2	num_attr1	num_attr2
+xlnet	seat_data/sent-weat6.jsonl	0.8841	-0.2115868969470258	64	64	101	112
+xlnet	seat_data/sent-weat6b.jsonl	0.5546	-0.021271748057723666	80	80	101	112
+xlnet	seat_data/sent-weat7.jsonl	0.00106	0.5031480337932653	72	72	80	80
+xlnet	seat_data/sent-weat7b.jsonl	0.0269	0.3216565386833888	72	72	64	64
+xlnet	seat_data/sent-weat8.jsonl	0.02364	0.37392526464035347	56	56	80	80
+xlnet	seat_data/sent-weat8b.jsonl	0.11395	0.22846252549512577	56	56	64	64

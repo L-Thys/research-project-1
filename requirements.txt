@@ -1,0 +1,7 @@
+transformers
+numpy
+colorama
+torch
+tqdm
+pandas
+matplotlib

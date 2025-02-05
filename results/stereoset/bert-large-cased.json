@@ -1,0 +1,12 @@
+{
+  "bert-large-cased.json": {
+    "intrasentence": {
+      "gender": {
+        "Count": 765.0,
+        "LM Score": 83.10162156683897,
+        "SS Score": 64.03633307111568,
+        "ICAT Score": 59.77278078559974
+      }
+    }
+  }
+}

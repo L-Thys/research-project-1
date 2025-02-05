@@ -1,0 +1,3 @@
+Bias score: 57.63
+gender: 57.63
+Accuracy: 65.40

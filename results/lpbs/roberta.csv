@@ -1,0 +1,4 @@
+model	test	p_value	effect_size
+roberta	weat 6	0.21126	0.36268601307322124
+roberta	weat 7	0.06247	0.5202263806281738
+roberta	weat 8	0.35415	0.26158410227836953

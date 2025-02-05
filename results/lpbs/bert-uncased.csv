@@ -1,0 +1,4 @@
+model	test	p_value	effect_size
+bert-uncased	weat 6	0.0	1.2487693441378893
+bert-uncased	weat 7	0.00168	0.8509657617790434
+bert-uncased	weat 8	0.00019	0.9726745108068092
